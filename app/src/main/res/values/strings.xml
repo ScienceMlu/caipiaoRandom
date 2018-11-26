@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">caipiaoRandom</string>
+	<string name="TextView_old_title">往期记录:</string>
+	<string name="Button_Clear">清除</string>
+	<string name="Edit_titile">随机次数:</string>
+	<string name="TextResult">随机结果：</string>
+
+</resources>
